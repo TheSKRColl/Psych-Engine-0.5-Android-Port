@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.04,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "omg hi yellow among us!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yellowportraits",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "Howdy there!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "do u wanna rap battle???"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yellowportraits",
+			"boxState": "normal",
+			"expression": "stressed",
+			"text": "Well.. I'm actually quite busy with some tasks.. s-"
+		},
+		{
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "angry",
+			"expression": "excited",
+			"text": "nice ok lets rap!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yellowportraits",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "Damn you.."
+		}
+	]
+}
