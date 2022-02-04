@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pibby_Notes.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="PibbyDown0000" x="0" y="0" width="157" height="154"/>
+	<SubTexture name="PibbyDownExtended0000" x="157" y="0" width="50" height="44"/>
+	<SubTexture name="PibbyDownExtendedEnd0000" x="207" y="0" width="50" height="64"/>
+	<SubTexture name="PibbyLeft0000" x="257" y="0" width="154" height="157"/>
+	<SubTexture name="PibbyLeftExtended0000" x="411" y="0" width="50" height="44"/>
+	<SubTexture name="PibbyLeftExtendedEnd0000" x="461" y="0" width="50" height="64"/>
+	<SubTexture name="PibbyMissArrowDOWN0000" x="511" y="0" width="144" height="140" frameX="-3" frameY="-4" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0001" x="511" y="0" width="144" height="140" frameX="-3" frameY="-4" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0002" x="655" y="0" width="152" height="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0003" x="655" y="0" width="152" height="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0004" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0005" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0006" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0007" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0008" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0009" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0010" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0011" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0012" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0013" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0014" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0015" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0016" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0017" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0018" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0019" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0020" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0021" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0022" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0023" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowDOWN0024" x="807" y="0" width="149" height="147" frameX="-2" frameY="-1" frameWidth="152" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0000" x="0" y="157" width="139" height="142" frameX="-5" frameY="-5" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0001" x="0" y="157" width="139" height="142" frameX="-5" frameY="-5" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0002" x="139" y="157" width="149" height="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0003" x="139" y="157" width="149" height="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0004" x="288" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0005" x="288" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0006" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0007" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0008" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0009" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0010" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0011" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0012" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0013" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0014" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0015" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0016" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0017" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0018" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0019" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0020" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0021" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0022" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0023" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowLEFT0024" x="432" y="157" width="144" height="146" frameX="-3" frameY="-3" frameWidth="149" frameHeight="152"/>
+	<SubTexture name="PibbyMissArrowRIGHT0000" x="576" y="157" width="155" height="145" frameX="-9" frameY="-7" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0001" x="576" y="157" width="155" height="145" frameX="-9" frameY="-7" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0002" x="731" y="157" width="171" height="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0003" x="731" y="157" width="171" height="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0004" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0005" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0006" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0007" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0008" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0009" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0010" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0011" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0012" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0013" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0014" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0015" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0016" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0017" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0018" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0019" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0020" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0021" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowRIGHT0022" x="0" y="320" width="169" height="160" frameX="-2" frameY="-1" frameWidth="171" frameHeight="163"/>
+	<SubTexture name="PibbyMissArrowUP0000" x="169" y="320" width="146" height="144" frameX="-5" frameY="-6" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0001" x="169" y="320" width="146" height="144" frameX="-5" frameY="-6" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0002" x="315" y="320" width="161" height="157"/>
+	<SubTexture name="PibbyMissArrowUP0003" x="315" y="320" width="161" height="157"/>
+	<SubTexture name="PibbyMissArrowUP0004" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0005" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0006" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0007" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0008" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0009" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0010" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0011" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0012" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0013" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0014" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0015" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0016" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0017" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0018" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0019" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0020" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0021" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyMissArrowUP0022" x="476" y="320" width="159" height="157" frameX="0" frameY="0" frameWidth="161" frameHeight="157"/>
+	<SubTexture name="PibbyNoteDown0000" x="635" y="320" width="157" height="155"/>
+	<SubTexture name="PibbyNoteLeft0000" x="792" y="320" width="166" height="157"/>
+	<SubTexture name="PibbyNoteRight0000" x="0" y="480" width="166" height="157"/>
+	<SubTexture name="PibbyNoteUp0000" x="166" y="480" width="157" height="154"/>
+	<SubTexture name="PibbyRight0000" x="323" y="480" width="154" height="157"/>
+	<SubTexture name="PibbyRightExtended0000" x="477" y="480" width="50" height="44"/>
+	<SubTexture name="PibbyRightExtendedEnd0000" x="527" y="480" width="50" height="64"/>
+	<SubTexture name="PibbyUp0000" x="577" y="480" width="157" height="154"/>
+	<SubTexture name="PibbyUpExtended0000" x="734" y="480" width="50" height="44"/>
+	<SubTexture name="PibbyUpExtendedEnd0000" x="784" y="480" width="50" height="64"/>
+	<SubTexture name="SelectedNotesDOWN0000" x="0" y="637" width="238" height="235"/>
+	<SubTexture name="SelectedNotesDOWN0001" x="238" y="637" width="238" height="235"/>
+	<SubTexture name="SelectedNotesDOWN0002" x="476" y="637" width="221" height="218" frameX="-6" frameY="-12" frameWidth="238" frameHeight="235"/>
+	<SubTexture name="SelectedNotesDOWN0003" x="697" y="637" width="221" height="218" frameX="-6" frameY="-12" frameWidth="238" frameHeight="235"/>
+	<SubTexture name="SelectedNotesLEFT0000" x="0" y="872" width="228" height="231"/>
+	<SubTexture name="SelectedNotesLEFT0001" x="228" y="872" width="218" height="221" frameX="-5" frameY="-5" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="SelectedNotesLEFT0002" x="446" y="872" width="226" height="228" frameX="-2" frameY="-1" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="SelectedNotesLEFT0003" x="672" y="872" width="226" height="228" frameX="-2" frameY="-1" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="SelectedNotesRIGHT0000" x="0" y="1103" width="223" height="227" frameX="-2" frameY="-2" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="SelectedNotesRIGHT0001" x="223" y="1103" width="223" height="227" frameX="-2" frameY="-2" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="SelectedNotesRIGHT0002" x="446" y="1103" width="228" height="231"/>
+	<SubTexture name="SelectedNotesRIGHT0003" x="674" y="1103" width="228" height="231"/>
+	<SubTexture name="SelectedNotesUP0000" x="0" y="1334" width="236" height="233"/>
+	<SubTexture name="SelectedNotesUP0001" x="236" y="1334" width="236" height="233"/>
+	<SubTexture name="SelectedNotesUP0002" x="472" y="1334" width="214" height="212" frameX="-11" frameY="-11" frameWidth="236" frameHeight="233"/>
+	<SubTexture name="SelectedNotesUP0003" x="686" y="1334" width="214" height="212" frameX="-11" frameY="-11" frameWidth="236" frameHeight="233"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="idleformenu.png">
+	<!-- Created with Adobe Animate version 20.0.3.25487 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="YellowIdle0000" x="0" y="0" width="796" height="504" pivotX="0" pivotY="0" frameX="-60" frameY="-40" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0001" x="0" y="0" width="796" height="504" frameX="-60" frameY="-40" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0002" x="796" y="0" width="806" height="510" frameX="-45" frameY="-34" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0003" x="796" y="0" width="806" height="510" frameX="-45" frameY="-34" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0004" x="1602" y="0" width="769" height="534" frameX="-19" frameY="-10" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0005" x="1602" y="0" width="769" height="534" frameX="-19" frameY="-10" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0006" x="2371" y="0" width="765" height="539" frameX="-8" frameY="-5" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0007" x="2371" y="0" width="765" height="539" frameX="-8" frameY="-5" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0008" x="3136" y="0" width="705" height="527" frameX="0" frameY="-17" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0009" x="3136" y="0" width="705" height="527" frameX="0" frameY="-17" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0010" x="0" y="539" width="737" height="534" frameX="-13" frameY="-10" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0011" x="0" y="539" width="737" height="534" frameX="-13" frameY="-10" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0012" x="737" y="539" width="735" height="544" frameX="-29" frameY="0" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0013" x="737" y="539" width="735" height="544" frameX="-29" frameY="0" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0014" x="1472" y="539" width="726" height="537" frameX="-47" frameY="-7" frameWidth="856" frameHeight="544"/>
+	<SubTexture name="YellowIdle0015" x="1472" y="539" width="726" height="537" frameX="-47" frameY="-7" frameWidth="856" frameHeight="544"/>
+</TextureAtlas>

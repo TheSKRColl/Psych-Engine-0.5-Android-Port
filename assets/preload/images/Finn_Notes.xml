@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Finn_Notes.png">
+	<!-- Created with Adobe Animate version 19.2.1.408 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="GlichTemplateNotesDown0000" x="0" y="0" width="157" height="160" frameX="0" frameY="0" frameWidth="157" frameHeight="169"/>
+	<SubTexture name="GlichTemplateNotesDown0001" x="0" y="0" width="157" height="160" frameX="0" frameY="0" frameWidth="157" frameHeight="169"/>
+	<SubTexture name="GlichTemplateNotesDown0002" x="157" y="0" width="157" height="164" frameX="0" frameY="-1" frameWidth="157" frameHeight="169"/>
+	<SubTexture name="GlichTemplateNotesDown0003" x="157" y="0" width="157" height="164" frameX="0" frameY="-1" frameWidth="157" frameHeight="169"/>
+	<SubTexture name="GlichTemplateNotesDown0004" x="157" y="0" width="157" height="164" frameX="0" frameY="-1" frameWidth="157" frameHeight="169"/>
+	<SubTexture name="GlichTemplateNotesDown0005" x="314" y="0" width="157" height="163" frameX="0" frameY="-6" frameWidth="157" frameHeight="169"/>
+	<SubTexture name="GlichTemplateNotesDown0006" x="314" y="0" width="157" height="163" frameX="0" frameY="-6" frameWidth="157" frameHeight="169"/>
+	<SubTexture name="GlichTemplateNotesDown0007" x="314" y="0" width="157" height="163" frameX="0" frameY="-6" frameWidth="157" frameHeight="169"/>
+	<SubTexture name="GlichTemplateNotesDown0008" x="314" y="0" width="157" height="163" frameX="0" frameY="-6" frameWidth="157" frameHeight="169"/>
+	<SubTexture name="GlichTemplateNotesDown0009" x="314" y="0" width="157" height="163" frameX="0" frameY="-6" frameWidth="157" frameHeight="169"/>
+	<SubTexture name="GlichTemplateNotesLeft0000" x="471" y="0" width="158" height="157" frameX="0" frameY="0" frameWidth="165" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesLeft0001" x="471" y="0" width="158" height="157" frameX="0" frameY="0" frameWidth="165" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesLeft0002" x="629" y="0" width="160" height="157" frameX="-4" frameY="0" frameWidth="165" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesLeft0003" x="629" y="0" width="160" height="157" frameX="-4" frameY="0" frameWidth="165" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesLeft0004" x="629" y="0" width="160" height="157" frameX="-4" frameY="0" frameWidth="165" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesLeft0005" x="789" y="0" width="161" height="157" frameX="-4" frameY="0" frameWidth="165" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesLeft0006" x="789" y="0" width="161" height="157" frameX="-4" frameY="0" frameWidth="165" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesLeft0007" x="789" y="0" width="161" height="157" frameX="-4" frameY="0" frameWidth="165" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesLeft0008" x="789" y="0" width="161" height="157" frameX="-4" frameY="0" frameWidth="165" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesLeft0009" x="789" y="0" width="161" height="157" frameX="-4" frameY="0" frameWidth="165" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesRight0000" x="0" y="164" width="154" height="157" frameX="-7" frameY="0" frameWidth="162" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesRight0001" x="0" y="164" width="154" height="157" frameX="-7" frameY="0" frameWidth="162" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesRight0002" x="0" y="164" width="154" height="157" frameX="-8" frameY="0" frameWidth="162" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesRight0003" x="0" y="164" width="154" height="157" frameX="-8" frameY="0" frameWidth="162" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesRight0004" x="0" y="164" width="154" height="157" frameX="-8" frameY="0" frameWidth="162" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesRight0005" x="0" y="164" width="154" height="157" frameX="-8" frameY="0" frameWidth="162" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesRight0006" x="0" y="164" width="154" height="157" frameX="-8" frameY="0" frameWidth="162" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesRight0007" x="0" y="164" width="154" height="157" frameX="-8" frameY="0" frameWidth="162" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesRight0008" x="154" y="164" width="154" height="157" frameX="0" frameY="0" frameWidth="162" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesRight0009" x="308" y="164" width="154" height="157" frameX="0" frameY="0" frameWidth="162" frameHeight="157"/>
+	<SubTexture name="GlichTemplateNotesUp0000" x="462" y="164" width="157" height="161" frameX="-6" frameY="-4" frameWidth="163" frameHeight="165"/>
+	<SubTexture name="GlichTemplateNotesUp0001" x="462" y="164" width="157" height="161" frameX="-6" frameY="-4" frameWidth="163" frameHeight="165"/>
+	<SubTexture name="GlichTemplateNotesUp0002" x="619" y="164" width="157" height="160" frameX="0" frameY="0" frameWidth="163" frameHeight="165"/>
+	<SubTexture name="GlichTemplateNotesUp0003" x="619" y="164" width="157" height="160" frameX="0" frameY="0" frameWidth="163" frameHeight="165"/>
+	<SubTexture name="GlichTemplateNotesUp0004" x="619" y="164" width="157" height="160" frameX="0" frameY="0" frameWidth="163" frameHeight="165"/>
+	<SubTexture name="GlichTemplateNotesUp0005" x="776" y="164" width="157" height="159" frameX="-3" frameY="-3" frameWidth="163" frameHeight="165"/>
+	<SubTexture name="GlichTemplateNotesUp0006" x="776" y="164" width="157" height="159" frameX="-3" frameY="-3" frameWidth="163" frameHeight="165"/>
+	<SubTexture name="GlichTemplateNotesUp0007" x="776" y="164" width="157" height="159" frameX="-3" frameY="-3" frameWidth="163" frameHeight="165"/>
+	<SubTexture name="GlichTemplateNotesUp0008" x="776" y="164" width="157" height="159" frameX="-3" frameY="-3" frameWidth="163" frameHeight="165"/>
+	<SubTexture name="GlichTemplateNotesUp0009" x="776" y="164" width="157" height="159" frameX="-3" frameY="-3" frameWidth="163" frameHeight="165"/>
+	<SubTexture name="GlichnoteDownextended0000" x="933" y="164" width="53" height="44"/>
+	<SubTexture name="GlichnoteDownextendedend0000" x="0" y="325" width="53" height="64"/>
+	<SubTexture name="GlichnoteUpextended0000" x="53" y="325" width="54" height="44"/>
+	<SubTexture name="GlichnotesDown0000" x="107" y="325" width="166" height="154"/>
+	<SubTexture name="GlichnotesLeft0000" x="273" y="325" width="154" height="157"/>
+	<SubTexture name="GlichnotesLeftextended0000" x="427" y="325" width="50" height="44"/>
+	<SubTexture name="GlichnotesLeftextendedend0000" x="477" y="325" width="50" height="64"/>
+	<SubTexture name="GlichnotesRight0000" x="527" y="325" width="154" height="157"/>
+	<SubTexture name="GlichnotesRightextended0000" x="681" y="325" width="50" height="44"/>
+	<SubTexture name="GlichnotesRightextendedend0000" x="731" y="325" width="50" height="64"/>
+	<SubTexture name="GlichnotesUp0000" x="781" y="325" width="157" height="160"/>
+	<SubTexture name="GlichnotesUpextendedend0000" x="938" y="325" width="53" height="64"/>
+	<SubTexture name="SelectedNotesDOWN0000" x="0" y="485" width="238" height="235"/>
+	<SubTexture name="SelectedNotesDOWN0001" x="238" y="485" width="238" height="235"/>
+	<SubTexture name="SelectedNotesDOWN0002" x="476" y="485" width="221" height="218" frameX="-6" frameY="-12" frameWidth="238" frameHeight="235"/>
+	<SubTexture name="SelectedNotesDOWN0003" x="697" y="485" width="221" height="218" frameX="-6" frameY="-12" frameWidth="238" frameHeight="235"/>
+	<SubTexture name="SelectedNotesLEFT0000" x="0" y="720" width="228" height="231"/>
+	<SubTexture name="SelectedNotesLEFT0001" x="228" y="720" width="218" height="221" frameX="-5" frameY="-5" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="SelectedNotesLEFT0002" x="446" y="720" width="226" height="228" frameX="-2" frameY="-1" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="SelectedNotesLEFT0003" x="672" y="720" width="226" height="228" frameX="-2" frameY="-1" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="SelectedNotesRIGHT0000" x="0" y="951" width="223" height="227" frameX="-2" frameY="-2" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="SelectedNotesRIGHT0001" x="223" y="951" width="223" height="227" frameX="-2" frameY="-2" frameWidth="228" frameHeight="231"/>
+	<SubTexture name="SelectedNotesRIGHT0002" x="446" y="951" width="228" height="231"/>
+	<SubTexture name="SelectedNotesRIGHT0003" x="674" y="951" width="228" height="231"/>
+	<SubTexture name="SelectedNotesUP0000" x="0" y="1182" width="236" height="233"/>
+	<SubTexture name="SelectedNotesUP0001" x="236" y="1182" width="236" height="233"/>
+	<SubTexture name="SelectedNotesUP0002" x="472" y="1182" width="214" height="212" frameX="-11" frameY="-11" frameWidth="236" frameHeight="233"/>
+	<SubTexture name="SelectedNotesUP0003" x="686" y="1182" width="214" height="212" frameX="-11" frameY="-11" frameWidth="236" frameHeight="233"/>
+</TextureAtlas>
