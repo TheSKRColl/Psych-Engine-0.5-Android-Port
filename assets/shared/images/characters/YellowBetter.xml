@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="YellowBetter.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="YellowDown0000" x="0" y="0" width="839" height="501" pivotX="-33.1" pivotY="-36.7"/>
+	<SubTexture name="YellowDown0001" x="0" y="0" width="839" height="501"/>
+	<SubTexture name="YellowDown0002" x="839" y="0" width="839" height="501"/>
+	<SubTexture name="YellowDown0003" x="839" y="0" width="839" height="501"/>
+	<SubTexture name="YellowDown0004" x="1678" y="0" width="839" height="501"/>
+	<SubTexture name="YellowDown0005" x="2517" y="0" width="839" height="501"/>
+	<SubTexture name="YellowDown0006" x="3356" y="0" width="839" height="501"/>
+	<SubTexture name="YellowDown0007" x="4195" y="0" width="839" height="501"/>
+	<SubTexture name="YellowDown0008" x="5034" y="0" width="839" height="501"/>
+	<SubTexture name="YellowDown0009" x="5034" y="0" width="839" height="501"/>
+	<SubTexture name="YellowDown0010" x="5034" y="0" width="839" height="501"/>
+	<SubTexture name="YellowIdle0000" x="5873" y="0" width="856" height="544" pivotX="0" pivotY="0"/>
+	<SubTexture name="YellowIdle0001" x="5873" y="0" width="856" height="544"/>
+	<SubTexture name="YellowIdle0002" x="6729" y="0" width="856" height="544"/>
+	<SubTexture name="YellowIdle0003" x="6729" y="0" width="856" height="544"/>
+	<SubTexture name="YellowIdle0004" x="0" y="544" width="856" height="544"/>
+	<SubTexture name="YellowIdle0005" x="0" y="544" width="856" height="544"/>
+	<SubTexture name="YellowIdle0006" x="856" y="544" width="856" height="544"/>
+	<SubTexture name="YellowIdle0007" x="856" y="544" width="856" height="544"/>
+	<SubTexture name="YellowIdle0008" x="1712" y="544" width="856" height="544"/>
+	<SubTexture name="YellowIdle0009" x="1712" y="544" width="856" height="544"/>
+	<SubTexture name="YellowIdle0010" x="2568" y="544" width="856" height="544"/>
+	<SubTexture name="YellowIdle0011" x="2568" y="544" width="856" height="544"/>
+	<SubTexture name="YellowIdle0012" x="3424" y="544" width="856" height="544"/>
+	<SubTexture name="YellowIdle0013" x="3424" y="544" width="856" height="544"/>
+	<SubTexture name="YellowIdle0014" x="4280" y="544" width="856" height="544"/>
+	<SubTexture name="YellowIdle0015" x="4280" y="544" width="856" height="544"/>
+	<SubTexture name="YellowLeft0000" x="5136" y="544" width="701" height="539" pivotX="107.35" pivotY="-5.1"/>
+	<SubTexture name="YellowLeft0001" x="5136" y="544" width="701" height="539"/>
+	<SubTexture name="YellowLeft0002" x="5837" y="544" width="701" height="539"/>
+	<SubTexture name="YellowLeft0003" x="5837" y="544" width="701" height="539"/>
+	<SubTexture name="YellowLeft0004" x="6538" y="544" width="701" height="539"/>
+	<SubTexture name="YellowLeft0005" x="7239" y="544" width="701" height="539"/>
+	<SubTexture name="YellowLeft0006" x="0" y="1088" width="701" height="539"/>
+	<SubTexture name="YellowLeft0007" x="701" y="1088" width="701" height="539"/>
+	<SubTexture name="YellowLeft0008" x="1402" y="1088" width="701" height="539"/>
+	<SubTexture name="YellowLeft0009" x="1402" y="1088" width="701" height="539"/>
+	<SubTexture name="YellowLeft0010" x="1402" y="1088" width="701" height="539"/>
+	<SubTexture name="YellowRight0000" x="2103" y="1088" width="889" height="539" pivotX="26.05" pivotY="-5.1"/>
+	<SubTexture name="YellowRight0001" x="2103" y="1088" width="889" height="539"/>
+	<SubTexture name="YellowRight0002" x="2992" y="1088" width="889" height="539"/>
+	<SubTexture name="YellowRight0003" x="2992" y="1088" width="889" height="539"/>
+	<SubTexture name="YellowRight0004" x="3881" y="1088" width="889" height="539"/>
+	<SubTexture name="YellowRight0005" x="4770" y="1088" width="889" height="539"/>
+	<SubTexture name="YellowRight0006" x="5659" y="1088" width="889" height="539"/>
+	<SubTexture name="YellowRight0007" x="6548" y="1088" width="889" height="539"/>
+	<SubTexture name="YellowRight0008" x="6548" y="1088" width="889" height="539"/>
+	<SubTexture name="YellowRight0009" x="6548" y="1088" width="889" height="539"/>
+	<SubTexture name="YellowRight0010" x="6548" y="1088" width="889" height="539"/>
+	<SubTexture name="YellowUp0000" x="7437" y="1088" width="633" height="554" pivotX="-50.2" pivotY="10.65"/>
+	<SubTexture name="YellowUp0001" x="7437" y="1088" width="633" height="554"/>
+	<SubTexture name="YellowUp0002" x="0" y="1642" width="633" height="554"/>
+	<SubTexture name="YellowUp0003" x="0" y="1642" width="633" height="554"/>
+	<SubTexture name="YellowUp0004" x="633" y="1642" width="633" height="554"/>
+	<SubTexture name="YellowUp0005" x="1266" y="1642" width="633" height="554"/>
+	<SubTexture name="YellowUp0006" x="1899" y="1642" width="633" height="554"/>
+	<SubTexture name="YellowUp0007" x="2532" y="1642" width="633" height="554"/>
+	<SubTexture name="YellowUp0008" x="3165" y="1642" width="633" height="554"/>
+	<SubTexture name="YellowUp0009" x="3165" y="1642" width="633" height="554"/>
+	<SubTexture name="YellowUp0010" x="3165" y="1642" width="633" height="554"/>
+</TextureAtlas>
