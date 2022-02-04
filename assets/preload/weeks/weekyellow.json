@@ -1,0 +1,48 @@
+{
+	"storyName": "attack of the sussest monger",
+	"hideFreeplay": false,
+	"weekBackground": "amogus",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"yellow",
+		"",
+		"bf"
+	],
+	"songs": [
+		[
+			"sussest-monger",
+			"yellow",
+			[
+				255,
+				205,
+				0
+			]
+		],
+		[
+			"forged-gold",
+			"yellow",
+			[
+				255,
+				205,
+				0
+			]
+		],
+		[
+			"stand-off",
+			"yellow",
+			[
+				255,
+				205,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "weekyellow"
+}
