@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "yellowportraits",
+			"boxState": "normal",
+			"expression": "stressed",
+			"text": "Shit.."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey man why are we here again"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yellowportraits",
+			"boxState": "normal",
+			"expression": "stressed",
+			"text": "Oh! Looks like somebody called a meeting!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why do you have a gu-"
+		},
+		{
+			"speed": 0.015,
+			"portrait": "yellowportraits",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "I\"'LL KILL YOU!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "dawg..."
+		}
+	]
+}
