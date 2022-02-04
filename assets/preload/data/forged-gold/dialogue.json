@@ -1,0 +1,46 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "yellowportraits",
+			"boxState": "normal",
+			"expression": "stressed",
+			"text": "Damn.. You're good!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "omg tyyy i've been practicing.."
+		},
+		{
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "lets do it agai-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yellowportraits",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "ENOUGH!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "yellowportraits",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "LOOK BOY, I\"'M TIRED OF YOUR FACADE!"
+		},
+		{
+			"speed": 0.185,
+			"portrait": "yellowportraits",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "I\"'LL KILL YOU!!!"
+		}
+	]
+}
